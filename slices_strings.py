@@ -1,3 +1,4 @@
+
 s = "abcdefghijklmnop"
 print(s)
 print(s[1:4], s[6:9])
